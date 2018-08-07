@@ -1,0 +1,16 @@
+{
+  "name": "express-tute",
+  "version": "1.0.0",
+  "private": true,
+  "description": "express tutorial",
+  "main": "expresstut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guru Baskaran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
